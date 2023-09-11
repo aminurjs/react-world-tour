@@ -1,0 +1,20 @@
+.country{
+    border: 2px solid skyblue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+.visited{
+    background-color: #aaa;
+}
+.flag{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+button{
+    margin-right: 10px;
+}
